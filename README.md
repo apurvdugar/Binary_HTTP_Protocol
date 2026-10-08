@@ -133,4 +133,3 @@ test_bhttp.py    Automated unit test suite (13 tests)
 www/             Sample web root (index.html)
 .gitignore       Ignores Python cache and OS artifacts
 ```
-# Binary_HTTP_Protocol
